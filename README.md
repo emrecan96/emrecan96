@@ -18,7 +18,7 @@ I'm a developer passionate about building on next-generation blockchain infrastr
 
 ## 📫 Contact
 - LinkedIn: [linkedin.com/in/emre-can-4a2501400](https://www.linkedin.com/in/emre-can-4a2501400)
-- Email: [emailini buraya yaz]
+- Email: [emrecan9653@gmail.com]
 
 ---
 ⚡ *Building the Economic OS for the internet*
