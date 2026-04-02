@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Emre Can 👋
 
-<!--
-**emrecan96/emrecan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Blockchain Developer | Building on Arc Network | EVM & Web3
 
-Here are some ideas to get you started:
+## About Me
+I'm a developer passionate about building on next-generation blockchain infrastructure. Currently developing applications on Arc Network — an EVM-compatible Layer-1 blockchain purpose-built for programmable money and real-world economic activity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Solidity & EVM
+- JavaScript / Web3.js
+- Smart Contract Development
+- USDC & Stablecoin Applications
+
+## 🚀 Currently
+- 🏗️ Building on Arc Network testnet
+- 📚 Learning DeFi & onchain payments
+- 🤝 Contributing to Arc Architects community
+
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/emre-can-4a2501400](https://www.linkedin.com/in/emre-can-4a2501400)
+- Email: [emailini buraya yaz]
+
+---
+⚡ *Building the Economic OS for the internet*
