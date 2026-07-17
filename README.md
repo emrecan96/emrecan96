@@ -17,7 +17,7 @@ I'm a developer passionate about building on next-generation blockchain infrastr
 - 🤝 Contributing to Arc Architects community
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/dilber-cavlak-856a89403/)
+- LinkedIn: [https://www.linkedin.com/in/batuhan-yayla-856a89403/)
 - Email: [emrecan9653@gmail.com]
 
 ---
